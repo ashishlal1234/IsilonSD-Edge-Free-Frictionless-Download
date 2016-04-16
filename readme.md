@@ -4,7 +4,9 @@ IsilonSD Edge enables you to deploy industry leading scale-out NAS operating sys
 Key benefits of IsilonSD Edge:
 
 •	Simple yet powerful and efficient scale-out storage solution for remote and branch offices
+
 •	Easily extends your enterprise data lake from the core data center to edge locations
+
 •	Enables consolidation and distribution of unstructured data 
 
 Try Non-Production version of IsilonSD Edge for FREE!
